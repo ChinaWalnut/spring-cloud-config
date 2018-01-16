@@ -1,7 +1,3 @@
-spring:
-  application:
-    #被注册项目服务名称
-    name: eureka-client
 eureka:
   client:
     #注册到哪个注册中心
